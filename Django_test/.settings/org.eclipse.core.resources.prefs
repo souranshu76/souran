@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
 encoding//PRN/ui/admin.py=utf-8
+encoding//PRN/ui/apps.py=utf-8
+encoding//PRN/ui/migrations/0002_auto_20191024_1243.py=utf-8
+encoding//PRN/ui/migrations/0003_auto_20191024_1253.py=utf-8
 encoding//PRN/ui/models.py=utf-8
+encoding//PRN/ui/test/view_test.py=utf-8
 encoding//PRN/ui/views.py=utf-8
